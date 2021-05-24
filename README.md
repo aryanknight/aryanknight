@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Knight
 - 👀 I’m interested in Full Stack Web Devlopement
-- 🌱 I’m currently learning React and other technology used in web dev
+- 🌱 I’m currently learning React and other technologies used in web dev
 - 💞️ I’m looking to collaborate on web dev pojects
 
 <!---
