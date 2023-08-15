@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A student, programmer, open source enthusiast.</h3>
 
-<p align="left" justify="center"> <img src="https://komarev.com/ghpvc/?username=yashkandalkar&label=Profile%20views&color=0e75b6&style=flat-square" alt="yashkandalkar" /></p>
+<p align="left" justify="center"> <img src="https://komarev.com/ghpvc/?username=aryanknight&label=Profile%20views&color=0e75b6&style=flat-square" alt="aryanknight" /></p>
 
 <p align="left">  </p>
 
