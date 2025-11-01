@@ -1,15 +1,67 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A student, programmer, open source enthusiast.</h3>
+<h1 align="center">👋 Hey, I'm Aryan</h1>
+<h3 align="center">Frontend Engineer | React & Next.js Enthusiast | Building Performant, Scalable UIs</h3>
 
-<p align="left" justify="center"> <img src="https://komarev.com/ghpvc/?username=aryanknight&label=Profile%20views&color=0e75b6&style=flat-square" alt="aryanknight" /></p>
+<p align="center">
+  <a href="https://github.com/aryanknight">
+    <img src="https://komarev.com/ghpvc/?username=aryanknight&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-97b31512a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/aryanknight/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-AryanKnight-orange?style=flat-square&logo=leetcode" />
+  </a>
+</p>
 
-<p align="left">  </p>
+---
 
-- 🔭 I’m constantly working on **myself!**
+### 💻 About Me
 
-- 🌱 I’m currently looking for jobs and opportunities!
-  
-- 💬 Ask me about **Web Development**
-  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🚀 Frontend Engineer at **Equirus Wealth**, building production-grade, high-performance web apps.
+💡 Passionate about crafting scalable UIs with **React, Next.js, and TypeScript**.
+🧠 Currently exploring **AI-assisted development** and improving developer experience through tooling & testing automation.
+💬 Ask me about **frontend architecture, performance tuning, or design systems**.
+🌱 Always learning, always shipping.
+
+---
+
+### 🧩 Tech Stack
+
+#### ⚛️ Frontend
+
+React • Next.js • TypeScript • Redux Toolkit • Zustand • TanStack Query • TailwindCSS • Shadcn • Framer Motion • MUI • Ant Design
+
+#### ⚙️ Backend & Tools
+
+Node.js • Express.js • Redis • PostgreSQL • MongoDB • GraphQL • Docker • Playwright • Jest • GitHub Actions • Bitbucket Pipelines
+
+---
+
+### 🧠 What I’m Currently Up To
+
+* Migrating legacy apps to **Next.js 15** and optimizing build performance.
+* Automating **E2E testing pipelines** with Playwright.
+* Experimenting with **AI-enhanced dev tools** like Copilot and Windsurf.
+* Mentoring peers on React design patterns and scalable architecture.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aryanknight&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanknight&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> “I write clean code… until deadlines start chasing me.” 😄
+
+---
+
+<p align="center">
+  <b>Let’s build something awesome together!</b><br/>
+  <a href="mailto:aryan313122@gmail.com">📩 aryan313122@gmail.com</a>
+</p>
